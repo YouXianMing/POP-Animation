@@ -1,6 +1,6 @@
 # POP-Animation
 
-非CocoaPods版本的POP，自2014.04.10版本修改而成
+非CocoaPods版本的POP，自2015.04.10官网POP的master版本修改而成
 
 >注意
 
